@@ -11,7 +11,7 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am a graduate from the University of Texas at Dallas with a Bachelors of Science in Computer Science.  </p>
                     <p>I'm a firm believer that in this current age of data, creating a service that ultimately serves the needs of society is easier than ever before. Data science and analytics is more important than ever as we are finding solutions to problems we never even knew about. My goal is to utilize technologies such as Machine Learning, Big Data, and Visualization tools to craft solutions that contribute to improving societal welfare</p>
@@ -26,8 +26,8 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <span className="heading-meta">What do I do?</span>
+                <h2 className="colorlib-heading">Here are some of my skills</h2>
             </div>
             </div>
             <div className="row row-pt-md">
